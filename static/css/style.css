@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+body {
+    min-height: 850px;
+}
+
+nav {
+    background-color: #712cf9;
+}
+
+/* navbar */
+.navbar-brand {
+    font-family: 'Poppins';
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.nav-logo {
+    width: 45px;
+}
+
+.nav-link {
+    font-family: 'Poppins';
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.nav-link:hover {
+    background-color: rgb(223, 223, 248);
+    font-weight: bold;
+    color: #000;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 10px;
+}
+/* akhir navbar */
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}  
+
+#projects {
+    background-color: #e2edff;
+}
+
+footer {
+    background-color: #712cf9;
+}
+
+.justify { text-align: justify;}
+/* card */
